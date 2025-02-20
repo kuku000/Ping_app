@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PingPong_Gen1</string>
+
+    <string-array name="sample_rates">
+<!--        <item>0.5</item>-->
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+    </string-array>
+
+</resources>
